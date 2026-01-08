@@ -2,7 +2,6 @@
 
 CUDA C++ kernels achieving **11.2× speedup** for neural network training.
 
-![Results](gpu_speedup_results.png)
 
 ##  Performance
 - **Neural Network:** 11.2× speedup
